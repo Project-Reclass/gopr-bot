@@ -1,0 +1,5 @@
+slack:
+  token:
+  channel: gopr-test
+  icon_emoji: coffeegopher
+  uri: https://slack.com/api/chat.postMessage
